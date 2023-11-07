@@ -22,3 +22,11 @@ N/A
 
 Please refer to the LICENSE in the repo
 ---
+
+## How the website looks
+
+![image](https://github.com/KylerJansson/Password-Generator/assets/141693361/d8de166e-09ce-4942-be25-478ce895617f)
+
+## Link to deployed sight
+
+https://kylerjansson.github.io/Password-Generator/
